@@ -1,6 +1,6 @@
 import { createGlobalStyle } from 'styled-components';
 
-import backgroundGit from '../assets/background-git';
+import backgroundGit from '../assets/background-git.svg';
 
 export default createGlobalStyle`
   * {
